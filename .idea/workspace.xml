@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e5b78be-f0a6-4c17-96e8-56aafa72cc34" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1fXGGYNVacMfzRv91IQ0N5S4jtg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BmxFiles" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BmxFiles" />
+      <recent name="$PROJECT_DIR$/../../side/java/BmxWavExtractor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../../side/java" />
+    </key>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e5b78be-f0a6-4c17-96e8-56aafa72cc34" name="Default Changelist" comment="" />
+      <created>1596356928083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596356928083</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="504" y="110" key="#Project_Structure" timestamp="1596375502316">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="504" y="110" key="#Project_Structure/2560.23.1024.617/0.23.2560.1417@0.23.2560.1417" timestamp="1596375502316" />
+    <state x="899" y="508" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596901683538">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="899" y="508" key="#com.intellij.fileTypes.FileTypeChooser/2560.23.1024.617/0.23.2560.1417@0.23.2560.1417" timestamp="1596901683538" />
+    <state x="772" y="249" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1596976815398">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="772" y="249" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/2560.23.1024.617/0.23.2560.1417@0.23.2560.1417" timestamp="1596976815398" />
+    <state x="665" y="423" width="942" height="897" key="EditFileWatcherDialog" timestamp="1596376230978">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="665" y="423" width="942" height="897" key="EditFileWatcherDialog/2560.23.1024.617/0.23.2560.1417@0.23.2560.1417" timestamp="1596376230978" />
+    <state x="410" y="202" key="SettingsEditor" timestamp="1596975737371">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="410" y="202" key="SettingsEditor/2560.23.1024.617/0.23.2560.1417@0.23.2560.1417" timestamp="1596975737371" />
+  </component>
+</project>
